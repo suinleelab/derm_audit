@@ -13,7 +13,7 @@ models/siimisic.py (adaptation of winning model from 2020 SIIM-ISIC competition)
 
 reproduction/modelderm.py (adaptation of ModelDerm 2018):
     Copyright (c) 2017 Seung Seog Han
-    Copyright (c) 2023 Alex DeGrave  (modifications)
+    Copyright (c) 2023 Alex DeGrave, AIMS Lab  (modifications)
 
 All remaining files:
     Copyright (c) 2023 Alex DeGrave, AIMS Lab
